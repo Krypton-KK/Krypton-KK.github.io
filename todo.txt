@@ -1,0 +1,4 @@
+start with the html file
+then go with the styling
+then use scripts
+and make a usable website
