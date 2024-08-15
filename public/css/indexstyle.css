@@ -1,0 +1,47 @@
+.headingandtitle{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0;
+  padding: 0;
+  background-color: #ff8c32; 
+}
+html{
+  color:  #334756;
+  background-color: #ff8c32;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+/* <uniquifier>: Use a unique and descriptive class name
+ <weight>: Use a value from 400 to 900 */
+
+h1{
+  font-family: "Wittgenstein", serif;
+  font-optical-sizing: auto;
+  font-weight: 2em;
+  font-style: auto;
+} /* we did it <dora music playing> */
+
+body{
+  margin: 0px 0px 0px 0px;
+  background-color: #eeeeee;
+}
+
+a{
+  color: #eeeeee;
+}
+
+#foot{
+  margin: 0;
+  color: #eeeeee;
+  background-color: #334756;
+}
+#pic{
+  margin: 10px;
+  display: inline-block;
+  height: 200px;
+}
+#intro{
+  display: inline-block;
+  width: 75%;
+}

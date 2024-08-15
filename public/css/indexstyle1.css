@@ -1,0 +1,36 @@
+.headingandtitle{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: #ffffff;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    padding: 0;
+    background-color: #070f2b; /* trying palette 1 */
+  }
+  html{
+    color:  black;
+    background-color: #070f2b ;
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+
+  
+  h1{
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+    font-weight: 2em;
+    font-style: auto;
+  } /* we did it <dora music playing> */
+  
+  body{
+    margin: 0px 0px 0px 0px;
+    background-color: #9290c3;
+  }
+  
+  a{
+    color: #1b1a55;
+  }
